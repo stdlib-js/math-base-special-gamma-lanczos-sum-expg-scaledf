@@ -1,0 +1,61 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2025-10-02)
+
+<section class="features">
+
+### Features
+
+-   [`ee08533`](https://github.com/stdlib-js/stdlib/commit/ee085335f14c4586b37dfd8c0ad4a82113651777) - add `math/base/special/gamma-lanczos-sum-expg-scaledf`
+
+</section>
+
+<!-- /.features -->
+
+<section class="reverts">
+
+### Reverts
+
+-   [`4a75f6d`](https://github.com/stdlib-js/stdlib/commit/4a75f6df054e6d718e40a37737938996ddd43006) - undo commits adding tests for full code coverage
+
+</section>
+
+<!-- /.reverts -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`4a75f6d`](https://github.com/stdlib-js/stdlib/commit/4a75f6df054e6d718e40a37737938996ddd43006) - **revert:** undo commits adding tests for full code coverage _(by Philipp Burckhardt)_
+-   [`52e5b8b`](https://github.com/stdlib-js/stdlib/commit/52e5b8b77789e7056e1cd2d44107a7cc0e893ee9) - **test:** add tests to achieve full coverage in `gamma-lanczos-sum`, `gamma-lanczos-sum-expg-scaled`, and `gamma-lanczos-sum-expg-scaledf` _(by Philipp Burckhardt)_
+-   [`ee08533`](https://github.com/stdlib-js/stdlib/commit/ee085335f14c4586b37dfd8c0ad4a82113651777) - **feat:** add `math/base/special/gamma-lanczos-sum-expg-scaledf` _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Karan Anand
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
