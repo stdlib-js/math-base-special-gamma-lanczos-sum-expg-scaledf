@@ -70,6 +70,11 @@ L_g(n) \cdot \exp(-g)
 <!-- eslint-disable id-length -->
 
 ```javascript
+import gammaLanczosSumExpGScaledf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaledf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaledf/tags). For example,
+
+```javascript
 import gammaLanczosSumExpGScaledf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaledf@v0.1.0-esm/index.mjs';
 ```
 
@@ -119,7 +124,7 @@ v = gammaLanczosSumExpGScaledf( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import gammaLanczosSumExpGScaledf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaledf@v0.1.0-esm/index.mjs';
+import gammaLanczosSumExpGScaledf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaledf@esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
