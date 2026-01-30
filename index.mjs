@@ -1,4 +1,0 @@
-// Copyright (c) 2025 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import t from"https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-float32@v0.2.2-esm/index.mjs";function e(e){return function(e){var n,r;return 0===e?1/0:((e<0?-e:e)<=1?(n=t(14.026143074035645+t(e*t(43.7473258972168+t(e*t(50.59547424316406+t(e*t(26.90456771850586+t(e*t(6.595765590667725+t(.6007853746414185*e)))))))))),r=t(0+t(e*t(24+t(e*t(50+t(e*t(35+t(e*t(10+t(1*e))))))))))):(e=t(1/e),n=t(.6007853746414185+t(e*t(6.595765590667725+t(e*t(26.90456771850586+t(e*t(50.59547424316406+t(e*t(43.7473258972168+t(14.026143074035645*e)))))))))),r=t(1+t(e*t(10+t(e*t(35+t(e*t(50+t(e*t(24+t(0*e))))))))))),t(n/r))}(t(e))}export{e as default};
-//# sourceMappingURL=index.mjs.map
