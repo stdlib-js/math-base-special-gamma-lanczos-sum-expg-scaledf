@@ -70,7 +70,7 @@ L_g(n) \cdot \exp(-g)
 <!-- eslint-disable id-length -->
 
 ```javascript
-import gammaLanczosSumExpGScaledf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaledf@esm/index.mjs';
+import gammaLanczosSumExpGScaledf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaledf@v0.1.1-esm/index.mjs';
 ```
 
 #### gammaLanczosSumExpGScaledf( x )
@@ -119,7 +119,7 @@ v = gammaLanczosSumExpGScaledf( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import gammaLanczosSumExpGScaledf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaledf@esm/index.mjs';
+import gammaLanczosSumExpGScaledf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaledf@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
